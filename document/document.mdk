@@ -1,0 +1,46 @@
+Title         : CartoDB torque + d3.js
+Author        : Carl V. Lewis
+Logo          : True
+Sub Title   : The sub-title
+Heading Depth: 0
+Cite Style  : natural
+
+
+
+[TITLE]
+
+> Of life's two chief prizes, beauty and truth,
+> I found the first in a loving heart and the
+> second in a laborer's hand.\
+> &emsp;&emsp; --- Khalil Gibran
+
+
+
+---
+
+
+
+[TITLE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko refrence manual"
